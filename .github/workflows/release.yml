@@ -1,9 +1,8 @@
-name: Update Bruce Theme Zips
+name: Release
 
 on:
-  push:
-    branches:
-      - master
+  release:
+    types: [created]
 
 jobs:
   zip-folders:
@@ -37,10 +36,10 @@ jobs:
             rm -rf temp
           done
 
-      - name: Upload zip files to existing release
+      - name: Upload zip files to release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: latest
+          tag_name: ${{ github.event.release.tag_name }}
           files: zips/*.zip
           overwrite_files: true
         env:
