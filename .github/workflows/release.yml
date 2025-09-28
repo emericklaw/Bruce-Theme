@@ -28,8 +28,8 @@ jobs:
           mkdir -p zips
           for folder in ${{ env.folders }}; do
             zipname="Bruce-Theme-${folder}.zip"
-            mkdir -p temp/Bruce/$folder
-            cp -r "$folder/"* temp/Bruce/$folder/
+            mkdir -p temp/Bruce-Theme-$folder
+            cp -r "$folder/"* temp/Bruce-Theme-$folder/
             cd temp
             zip -r "../zips/$zipname" "Bruce"
             cd ..
