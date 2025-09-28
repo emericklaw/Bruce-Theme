@@ -67,26 +67,26 @@
 ## Device Previews
 
 ### Lilygo T-Embed CC1101
-![CYD-2432S028](https://github.com/emericklaw/Bruce-Theme/blob/master/assets/lilygo_t-embed_cc1101.jpg?raw=true)
+![Lilygo T-Embed CC1101](https://github.com/emericklaw/Bruce-Theme/blob/master/assets/lilygo_t-embed_cc1101.jpg?raw=true)
 
 ### M5 Cardputer
-![CYD-2432S028](https://github.com/emericklaw/Bruce-Theme/blob/master/assets/m5_cardputer.jpg?raw=true)
+![M5 Cardputer](https://github.com/emericklaw/Bruce-Theme/blob/master/assets/m5_cardputer.jpg?raw=true)
 
 ### M5 StickC 2
-![CYD-2432S028](https://github.com/emericklaw/Bruce-Theme/blob/master/assets/m5_stickc_2.jpg?raw=true)
+![M5 StickC 2](https://github.com/emericklaw/Bruce-Theme/blob/master/assets/m5_stickc_2.jpg?raw=true)
 
 ### CYD-2432S028
 ![CYD-2432S028](https://github.com/emericklaw/Bruce-Theme/blob/master/assets/cyd-2432S028.jpg?raw=true)
 
 ### Lilygo T-LoRa-Pager
-![CYD-2432S028](https://github.com/emericklaw/Bruce-Theme/blob/master/assets/lilygo_t-lora-pager.jpg?raw=true)
+![Lilygo T-LoRa-Pager](https://github.com/emericklaw/Bruce-Theme/blob/master/assets/lilygo_t-lora-pager.jpg?raw=true)
 
 ### Smoochiee V2 PCB
-![CYD-2432S028](https://github.com/emericklaw/Bruce-Theme/blob/master/assets/smoochiee_v2_pcb.jpg?raw=true)
+![Smoochiee V2 PCB](https://github.com/emericklaw/Bruce-Theme/blob/master/assets/smoochiee_v2_pcb.jpg?raw=true)
 
 ### Lilygo T-Deck
-![CYD-2432S028](https://github.com/emericklaw/Bruce-Theme/blob/master/assets/lilygo_t-deck.jpg?raw=true)
+![Lilygo T-Deck8](https://github.com/emericklaw/Bruce-Theme/blob/master/assets/lilygo_t-deck.jpg?raw=true)
 
 ### M5 CoreS3 SE
-![CYD-2432S028](https://github.com/emericklaw/Bruce-Theme/blob/master/assets/m5_cores3_se.jpg?raw=true)
+![M5 CoreS3 SE](https://github.com/emericklaw/Bruce-Theme/blob/master/assets/m5_cores3_se.jpg?raw=true)
 
