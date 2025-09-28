@@ -41,6 +41,21 @@ jobs:
         with:
           tag_name: ${{ github.event.release.tag_name }}
           files: zips/*.zip
+          draft: false
+          prerelease: false
           overwrite_files: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+
+      - name: Update latest release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          release_name: Latest Release
+          body: "Automatically updated latest release"
+          draft: false
+          prerelease: false
+          files: zips/*.zip
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
