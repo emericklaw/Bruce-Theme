@@ -31,7 +31,7 @@ jobs:
             mkdir -p temp/Bruce-Theme-$folder
             cp -r "$folder/"* temp/Bruce-Theme-$folder/
             cd temp
-            zip -r "../zips/$zipname" "Bruce"
+            zip -r "../zips/$zipname" "Bruce-Theme-${folder}"
             cd ..
             rm -rf temp
           done
