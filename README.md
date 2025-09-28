@@ -2,6 +2,10 @@
 
 **The Bruce Theme** - a bold, glowing upgrade for your Bruce device with neon energy and shark power.
 
+| ![WIFI](https://github.com/emericklaw/Bruce-Theme/blob/master/140px/WIFI.gif?raw=true) | ![BLE](https://github.com/emericklaw/Bruce-Theme/blob/master/140px/BLE.gif?raw=true) | ![RF](https://github.com/emericklaw/Bruce-Theme/blob/master/140px/RF.gif?raw=true) |
+| -------- | ------- | ------- |
+
+
 [Bruce Firmware](https://bruce.computer)
 
 [Bruce GitHub](https://github.com/pr3y/Bruce)
