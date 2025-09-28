@@ -3,7 +3,7 @@ name: Create Bruce Theme Zips
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   zip-folders:
