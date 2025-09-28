@@ -13,6 +13,9 @@
 ---
 
 > [!TIP]
+> I recommend using the PNG version unless your device does not support PNGs (devices with know lack of PNG support have a note below in the [Supported Devices](#supported-devices)
+
+> [!TIP]
 > You will find that themes are a lot more responsive when changing menus if you store them on the LittleFS. Beware though, the LittleFS is 'little', do not fill it with themes your device will refuse to boot if LittleFS is full.
 
 ---
