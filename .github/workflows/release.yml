@@ -1,4 +1,4 @@
-name: Create Bruce Theme Zips
+name: Update Bruce Theme Zips
 
 on:
   push:
@@ -37,29 +37,11 @@ jobs:
             rm -rf temp
           done
 
-      - name: Generate release notes
-        id: release_notes
-        run: |
-          notes=$(git log --oneline --no-merges --format='%h %s' ${{ github.event.before }}..${{ github.sha }})
-          echo "Release Notes:"
-          echo "$notes"
-          echo "release_notes=$notes" >> $GITHUB_ENV
-
-      - name: Create GitHub Release
-        id: create_release
+      - name: Upload zip files to existing release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: release-${{ github.sha }}
-          release_name: Release ${{ github.sha }}
-          body: ${{ env.release_notes }}
-          draft: false
-          prerelease: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Upload zip files to release
-        uses: softprops/action-gh-release@v2
-        with:
+          tag_name: latest
           files: zips/*.zip
+          overwrite: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
