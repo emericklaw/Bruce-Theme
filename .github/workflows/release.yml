@@ -1,0 +1,44 @@
+name: Create Bruce Theme Zips
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  zip-folders:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up folders
+        id: folders
+        run: |
+          # List top-level directories
+          dirs=()
+          for d in */ ; do
+            if [ -d "$d" ]; then
+              dirs+=("${d%/}")
+            fi
+          done
+          echo "folders=${dirs[*]}" >> $GITHUB_ENV
+
+      - name: Create zip files
+        run: |
+          mkdir -p zips
+          for folder in ${{ env.folders }}; do
+            zipname="Bruce-Theme-${folder}.zip"
+            mkdir -p temp/Bruce/$folder
+            cp -r "$folder/"* temp/Bruce/$folder/
+            cd temp
+            zip -r "../zips/$zipname" "Bruce"
+            cd ..
+            rm -rf temp
+          done
+
+      - name: Upload zip files as artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: Bruce-Theme-Zips
+          path: zips/*.zip
