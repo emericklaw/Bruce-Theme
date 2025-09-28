@@ -3,7 +3,7 @@ name: Create Bruce Theme Zips
 on:
   push:
     branches:
-      - master
+      - main  # adjust if needed
 
 jobs:
   zip-folders:
@@ -15,11 +15,12 @@ jobs:
       - name: Set up folders
         id: folders
         run: |
-          # List top-level directories
+          # List top-level directories ending with 'px'
           dirs=()
           for d in */ ; do
-            if [ -d "$d" ]; then
-              dirs+=("${d%/}")
+            dirname="${d%/}"
+            if [[ -d "$d" && "$dirname" == *px ]]; then
+              dirs+=("$dirname")
             fi
           done
           echo "folders=${dirs[*]}" >> $GITHUB_ENV
@@ -38,7 +39,7 @@ jobs:
           done
 
       - name: Upload zip files as artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: Bruce-Theme-Zips
           path: zips/*.zip
