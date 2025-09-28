@@ -23,7 +23,7 @@
   "secColor": "7915",
   "bgColor": "0000",
   "ledBright": "50",
-  "ledColor": "#6400ff",
+  "ledColor": "6400ff",
   "ledEffect": "1",
   "ledEffectSpeed": "5",
   "ledEffectDirection": 1
