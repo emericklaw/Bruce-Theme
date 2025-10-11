@@ -6,7 +6,7 @@
     "files": [
       {
         "source": "GIF-105px/Bruce_Theme.json",
-        "destination": "Bruce_Theme/Bruce_Theme.json"
+        "destination": "Bruce-Theme/Bruce_Theme.json"
       },
       {
         "source": "GIF-105px/BLE.gif",
@@ -77,7 +77,7 @@
     "files": [
       {
         "source": "GIF-140px/Bruce_Theme.json",
-        "destination": "Bruce_Theme/Bruce_Theme.json"
+        "destination": "Bruce-Theme/Bruce_Theme.json"
       },
       {
         "source": "GIF-140px/BLE.gif",
@@ -148,7 +148,7 @@
     "files": [
       {
         "source": "GIF-180px/Bruce_Theme.json",
-        "destination": "Bruce_Theme/Bruce_Theme.json"
+        "destination": "Bruce-Theme/Bruce_Theme.json"
       },
       {
         "source": "GIF-180px/BLE.gif",
@@ -219,7 +219,7 @@
     "files": [
       {
         "source": "GIF-192px/Bruce_Theme.json",
-        "destination": "Bruce_Theme/Bruce_Theme.json"
+        "destination": "Bruce-Theme/Bruce_Theme.json"
       },
       {
         "source": "GIF-192px/BLE.gif",
@@ -290,7 +290,7 @@
     "files": [
       {
         "source": "PNG-105px/Bruce_Theme.json",
-        "destination": "Bruce_Theme/Bruce_Theme.json"
+        "destination": "Bruce-Theme/Bruce_Theme.json"
       },
       {
         "source": "PNG-105px/BLE.png",
@@ -361,7 +361,7 @@
     "files": [
       {
         "source": "PNG-140px/Bruce_Theme.json",
-        "destination": "Bruce_Theme/Bruce_Theme.json"
+        "destination": "Bruce-Theme/Bruce_Theme.json"
       },
       {
         "source": "PNG-140px/BLE.png",
@@ -432,7 +432,7 @@
     "files": [
       {
         "source": "PNG-180px/Bruce_Theme.json",
-        "destination": "Bruce_Theme/Bruce_Theme.json"
+        "destination": "Bruce-Theme/Bruce_Theme.json"
       },
       {
         "source": "PNG-180px/BLE.png",
@@ -503,7 +503,7 @@
     "files": [
       {
         "source": "PNG-192px/Bruce_Theme.json",
-        "destination": "Bruce_Theme/Bruce_Theme.json"
+        "destination": "Bruce-Theme/Bruce_Theme.json"
       },
       {
         "source": "PNG-192px/BLE.png",
