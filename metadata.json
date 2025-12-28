@@ -53,6 +53,10 @@
         "destination": "Bruce-Theme/NRF24.gif"
       },
       {
+        "source": "GIF-105px/LoRa.gif",
+        "destination": "Bruce-Theme/LoRa.gif"
+      },
+      {
         "source": "GIF-105px/Others.gif",
         "destination": "Bruce-Theme/Others.gif"
       },
@@ -124,6 +128,10 @@
         "destination": "Bruce-Theme/NRF24.gif"
       },
       {
+        "source": "GIF-140px/LoRa.gif",
+        "destination": "Bruce-Theme/LoRa.gif"
+      },
+      {
         "source": "GIF-140px/Others.gif",
         "destination": "Bruce-Theme/Others.gif"
       },
@@ -193,6 +201,10 @@
       {
         "source": "GIF-180px/NRF24.gif",
         "destination": "Bruce-Theme/NRF24.gif"
+      },
+      {
+        "source": "GIF-180px/LoRa.gif",
+        "destination": "Bruce-Theme/LoRa.gif"
       },
       {
         "source": "GIF-180px/Others.gif",
@@ -270,6 +282,10 @@
         "destination": "Bruce-Theme/Others.gif"
       },
       {
+        "source": "GIF-192px/LoRa.gif",
+        "destination": "Bruce-Theme/LoRa.gif"
+      },
+      {
         "source": "GIF-192px/RF.gif",
         "destination": "Bruce-Theme/RF.gif"
       },
@@ -335,6 +351,10 @@
       {
         "source": "PNG-105px/NRF24.png",
         "destination": "Bruce-Theme/NRF24.png"
+      },
+      {
+        "source": "PNG-105px/LoRa.png",
+        "destination": "Bruce-Theme/LoRa.png"
       },
       {
         "source": "PNG-105px/Others.png",
@@ -408,6 +428,10 @@
         "destination": "Bruce-Theme/NRF24.png"
       },
       {
+        "source": "PNG-140px/LoRa.png",
+        "destination": "Bruce-Theme/LoRa.png"
+      },
+      {
         "source": "PNG-140px/Others.png",
         "destination": "Bruce-Theme/Others.png"
       },
@@ -479,6 +503,10 @@
         "destination": "Bruce-Theme/NRF24.png"
       },
       {
+        "source": "PNG-180px/LoRa.png",
+        "destination": "Bruce-Theme/LoRa.png"
+      },
+      {
         "source": "PNG-180px/Others.png",
         "destination": "Bruce-Theme/Others.png"
       },
@@ -548,6 +576,10 @@
       {
         "source": "PNG-192px/NRF24.png",
         "destination": "Bruce-Theme/NRF24.png"
+      },
+      {
+        "source": "PNG-192px/LoRa.png",
+        "destination": "Bruce-Theme/LoRa.png"
       },
       {
         "source": "PNG-192px/Others.png",
