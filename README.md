@@ -72,8 +72,9 @@
 | -------- | ------- | ------- |
 | ![RF](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/RF.png?raw=true) | ![RFID](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/RFID.png?raw=true) | ![IR](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/IR.png?raw=true) |
 | ![FM](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/FM.png?raw=true) | ![Files](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/Files.png?raw=true) | ![GPS](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/GPS.png?raw=true) |
-| ![NRF24](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/NRF24.png?raw=true) | ![JSInterpreter](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/JSInterpreter.png?raw=true) | ![Others](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/Others.png?raw=true) |
-| ![Clock](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/Clock.png?raw=true) | ![Connect](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/Connect.png?raw=true) | ![Config](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/Config.png?raw=true) |
+| ![NRF24](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/NRF24.png?raw=true) | ![JSInterpreter](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/JSInterpreter.png?raw=true) | ![LoRa](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/LoRa.png?raw=true) |
+| ![Others](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/Others.png?raw=true) | ![Clock](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/Clock.png?raw=true) | ![Connect](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/Connect.png?raw=true) |
+| ![Config](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/Config.png?raw=true) |  |  |
 
 ---
 
@@ -102,4 +103,3 @@
 
 ### M5 CoreS3 SE
 ![M5 CoreS3 SE](https://github.com/emericklaw/Bruce-Theme/blob/master/.assets/m5_cores3_se.jpg?raw=true)
-
