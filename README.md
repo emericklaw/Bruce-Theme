@@ -2,7 +2,7 @@
 
 **The Bruce Theme** - a bold, glowing upgrade for your Bruce device with neon energy and shark power.
 
-| ![WIFI](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/WiFi.png?raw=true) | ![BLE](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/BLE.png?raw=true) | ![RF](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/RF.png?raw=true) |
+| ![WIFI](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/WiFi.png?raw=true) | ![BLE](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/BLE.png?raw=true) | ![RF](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/RF.png?raw=true) |
 | -------- | ------- | ------- |
 
 
@@ -41,40 +41,31 @@
 
 ## Supported Devices
 
-* 105px - [Download PNG Version](https://github.com/emericklaw/Bruce-Theme/releases/download/latest/Bruce-Theme-PNG-105px.zip) - [Download GIF Version](https://github.com/emericklaw/Bruce-Theme/releases/download/latest/Bruce-Theme-GIF-105px.zip)
+* 240x135px - [Download PNG Version](https://github.com/emericklaw/Bruce-Theme/releases/download/latest/Bruce-Theme-PNG-240x135px.zip) - [Download GIF Version](https://github.com/emericklaw/Bruce-Theme/releases/download/latest/Bruce-Theme-GIF-240x135px.zip)
   * M5 StickC Plus 1.1 - Use GIF version since Bruce does not have PNG support on this device
   * M5 StickC Plus 2
   * M5 Cardputer / Cardputer Adv
-* 140px - [Download PNG Version](https://github.com/emericklaw/Bruce-Theme/releases/download/latest/Bruce-Theme-PNG-140px.zip) - [Download GIF Version](https://github.com/emericklaw/Bruce-Theme/releases/download/latest/Bruce-Theme-GIF-140px.zip)
+* 320x170px - [Download PNG Version](https://github.com/emericklaw/Bruce-Theme/releases/download/latest/Bruce-Theme-PNG-320x170px.zip) - [Download GIF Version](https://github.com/emericklaw/Bruce-Theme/releases/download/latest/Bruce-Theme-GIF-320x170px.zip)
   * Lilygo T-Embed (all versions)
   * Lilygo T-Display-S3
   * Smoochiee V2 PCB
-* 180px - [Download PNG Version](https://github.com/emericklaw/Bruce-Theme/releases/download/latest/Bruce-Theme-PNG-180px.zip) - [Download GIF Version](https://github.com/emericklaw/Bruce-Theme/releases/download/latest/Bruce-Theme-GIF-180px.zip)
+* 320x240px - [Download PNG Version](https://github.com/emericklaw/Bruce-Theme/releases/download/latest/Bruce-Theme-PNG-320x240px.zip) - [Download GIF Version](https://github.com/emericklaw/Bruce-Theme/releases/download/latest/Bruce-Theme-GIF-320x240px.zip)
   * CYD-2432S028 (and other variants with a 320x240 screen) - Use GIF version since Bruce does not have PNG support on this device
   * M5 Core / Core2 / CoreS3 / CoreS3 SE (and other variants with a 320x240 screen)
   * Lilygo T-Deck (all versions)
-* 192px - [Download PNG Version](https://github.com/emericklaw/Bruce-Theme/releases/download/latest/Bruce-Theme-PNG-192px.zip) - [Download GIF Version](https://github.com/emericklaw/Bruce-Theme/releases/download/latest/Bruce-Theme-GIF-192px.zip)
+* 480x222px - [Download PNG Version](https://github.com/emericklaw/Bruce-Theme/releases/download/latest/Bruce-Theme-PNG-480x222px.zip) - [Download GIF Version](https://github.com/emericklaw/Bruce-Theme/releases/download/latest/Bruce-Theme-GIF-480x222px.zip)
   * Lilygo T-LoRa-Pager
 
 ---
 
-## Supported Screens
-
-* 240x135 - 105px
-* 320x170 - 140px
-* 320x240 - 180px
-* 480x222 - 192px
-
----
-
 ## Theme Preview
-| ![WiFi](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/WiFi.png?raw=true) | ![BLE](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/BLE.png?raw=true) | ![Ethernet](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/Ethernet.png?raw=true) |
+| ![WiFi](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/WiFi.png?raw=true) | ![BLE](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/BLE.png?raw=true) | ![Ethernet](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/Ethernet.png?raw=true) |
 | -------- | ------- | ------- |
-| ![RF](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/RF.png?raw=true) | ![RFID](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/RFID.png?raw=true) | ![IR](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/IR.png?raw=true) |
-| ![FM](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/FM.png?raw=true) | ![Files](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/Files.png?raw=true) | ![GPS](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/GPS.png?raw=true) |
-| ![NRF24](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/NRF24.png?raw=true) | ![JSInterpreter](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/JSInterpreter.png?raw=true) | ![LoRa](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/LoRa.png?raw=true) |
-| ![Others](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/Others.png?raw=true) | ![Clock](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/Clock.png?raw=true) | ![Connect](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/Connect.png?raw=true) |
-| ![Config](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-140px/Config.png?raw=true) |  |  |
+| ![RF](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/RF.png?raw=true) | ![RFID](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/RFID.png?raw=true) | ![IR](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/IR.png?raw=true) |
+| ![FM](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/FM.png?raw=true) | ![Files](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/Files.png?raw=true) | ![GPS](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/GPS.png?raw=true) |
+| ![NRF24](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/NRF24.png?raw=true) | ![JSInterpreter](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/JSInterpreter.png?raw=true) | ![LoRa](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/LoRa.png?raw=true) |
+| ![Others](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/Others.png?raw=true) | ![Clock](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/Clock.png?raw=true) | ![Connect](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/Connect.png?raw=true) |
+| ![Config](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/Config.png?raw=true) |  |  |
 
 ---
 
