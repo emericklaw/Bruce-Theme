@@ -49,6 +49,7 @@
   * Lilygo T-Embed (all versions)
   * Lilygo T-Display-S3
   * Smoochiee V2 PCB
+  * Bruce RF Reaper
 * 320x240px - [Download PNG Version](https://github.com/emericklaw/Bruce-Theme/releases/download/latest/Bruce-Theme-PNG-320x240px.zip) - [Download GIF Version](https://github.com/emericklaw/Bruce-Theme/releases/download/latest/Bruce-Theme-GIF-320x240px.zip)
   * CYD-2432S028 (and other variants with a 320x240 screen) - Use GIF version since Bruce does not have PNG support on this device
   * M5 Core / Core2 / CoreS3 / CoreS3 SE (and other variants with a 320x240 screen)
@@ -65,7 +66,7 @@
 | ![FM](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/FM.png?raw=true) | ![Files](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/Files.png?raw=true) | ![GPS](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/GPS.png?raw=true) |
 | ![NRF24](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/NRF24.png?raw=true) | ![JSInterpreter](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/JSInterpreter.png?raw=true) | ![LoRa](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/LoRa.png?raw=true) |
 | ![Others](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/Others.png?raw=true) | ![Clock](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/Clock.png?raw=true) | ![Connect](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/Connect.png?raw=true) |
-| ![Config](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/Config.png?raw=true) |  |  |
+| ![WireTools](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/WireTools.png?raw=true) | ![Config](https://github.com/emericklaw/Bruce-Theme/blob/master/PNG-320x170px/Config.png?raw=true) |  |
 
 ---
 
