@@ -4,12 +4,15 @@ on:
   release:
     types: [created]
 
+permissions:
+  contents: write
+
 jobs:
   zip-folders:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v5
 
       - name: Set up folders
         id: folders
@@ -44,9 +47,6 @@ jobs:
           draft: false
           prerelease: false
           overwrite_files: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-
 
       - name: Update latest release
         uses: softprops/action-gh-release@v2
@@ -57,5 +57,3 @@ jobs:
           draft: false
           prerelease: false
           files: zips/*.zip
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
